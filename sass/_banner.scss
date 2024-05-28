@@ -10,15 +10,15 @@
     z-index: 1;
     @media #{$small_mobile}{
         height: 650px;
-        background-color: #f0eed4;
+        background-color: #ff7700;
     }
     @media #{$large_mobile}{
         height: 650px;
-        background-color: #f0eed4;
+        background-color: #ff7700;
     }
     @media #{$tab_device}{
         height: 700px;
-        background-color: #f0eed4;
+        background-color: #ff7700;
     }
     @media #{$medium_device}{
         background-size: cover;

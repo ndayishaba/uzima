@@ -12,8 +12,9 @@
         text-decoration: none;
         @include transform_time(.5s);
         &:hover, :hover{
-            background: -webkit-linear-gradient( 131deg, #feb47b 0%, #ff7e5f 99%);
+            background: -webkit-linear-gradient( 131deg, #ff7700 0%, #ff7700 99%);
             -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
             text-decoration: none;
             @include transform_time(.5s);
